@@ -1,5 +1,5 @@
 # rotter
-rotter can be used to encrypt text in ROT encryption. by JRDP Team
+ROT encryption toolkit. by JRDP Team
 
 You can use any encoding/decoding between 1 & 100.
 To encrypt text "love you",enter this command in rotter folder:
